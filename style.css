@@ -1,0 +1,40 @@
+body{
+   text-align: center
+}
+.line{
+   height: 8px;
+    background-color: aquamarine;
+    width: 10px;
+    margin: 8px auto;
+}
+#Applab{
+    background-color: azure;
+}
+#games{
+    background-color: aqua;
+}    
+a{
+    margin-left:40px; 
+}  
+#spritelab{
+    background-color:deepskyblue;
+}
+#chatbot{
+    background-color:cyan
+}
+.container{
+    text-align: center;
+}
+#myCarousel{
+    background-color: coral;
+}
+#myCarousel img{
+height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+   margin-bottom: 15px;
+    margin-top: 15px;
+    color: floralwhite;
+    font-size: 20px;
+}
